@@ -22,3 +22,4 @@ while amount < 1000:
     i += 1
 # print results
 print(res)
+# print(len(res))
